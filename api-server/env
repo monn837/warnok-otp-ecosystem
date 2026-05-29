@@ -1,0 +1,3 @@
+PORT=3000
+MONGO_URI=Mongodb+srv://apaajaweh@monnajja.pehsfou.mongodb.net/?appName=Monnajja
+SECRET_API_KEY=vulvy_secret_token_123456
