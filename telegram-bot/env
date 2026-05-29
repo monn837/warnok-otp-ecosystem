@@ -1,0 +1,5 @@
+BOT_TOKEN=AAHAzeDYY148KxzQCPQ7VgrZK3cYum3-nu0
+ADMIN_ID=8314410468
+MONGO_URI=Mongodb+srv://apaajaweh@monnajja.pehsfou.mongodb.net/?appName=Monnajja
+BASE_URL_API=http://localhost:3000/steward.php
+PROVIDER_API_KEY=vulvy_secret_token_123456
